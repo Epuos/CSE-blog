@@ -3,13 +3,13 @@
 
 
 body {
-  background-color: lightblue;
+  background-color: rgb(4, 0, 241);
   font-family: verdana;
   font-size: 18px;
 }
 
 header h1 a {
-  color: red;
+  color: rgb(0, 255, 34);
 }
 
 .nav-left {
@@ -31,7 +31,7 @@ header h1 a {
 
 .post-entry h2 a,
 .post-entry h2 a:visited {
-  color: blue;
+  color: rgb(238, 0, 0);
   text-decoration: none;
 }
 
@@ -39,4 +39,12 @@ header h1 a {
 .post-entry p {
   margin: 0;
   font-weight: 400;
+}
+
+p{
+  color: rgb(255, 0, 234);
+}
+
+h2{
+  color: indigo;
 }
